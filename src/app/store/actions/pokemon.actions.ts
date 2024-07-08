@@ -1,5 +1,3 @@
-import { Action } from '@ngxs/store';
-
 export class FetchPokemons {
   static readonly type = '[Pokemon] Fetch';
 }
